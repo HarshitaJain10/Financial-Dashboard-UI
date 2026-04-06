@@ -1,4 +1,3 @@
-# Financial-Dashboard-UI
 # 💰 Finance Dashboard UI
 
 ## 📌 Overview
